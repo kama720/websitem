@@ -1,0 +1,7 @@
+body{
+    background-color: black;
+    color: tomato;
+    text-align: center;
+    font-size: 500%;
+    animation-play-state: running;
+}
